@@ -47,5 +47,3 @@
 <img src="https://raw.githubusercontent.com/ozturkmutlu65/ozturkmutlu65/output/snake.svg" alt="Snake animation" />
 
 ###
-
-###
